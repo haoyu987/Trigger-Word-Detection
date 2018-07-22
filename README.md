@@ -1,2 +1,2 @@
 # Trigger-Word-Detection
-a speech recognition
+a speech recognition project from coursera Deep Learning Specialization
